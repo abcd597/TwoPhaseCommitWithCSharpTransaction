@@ -1,2 +1,4 @@
 # TwoPhaseCommitWithCSharpTransaction
-another way to handle cross domain database transaction without Microsoft Distributed Transaction Coordinator
+ref: https://dotblogs.azurewebsites.net/supershowwei/2019/02/25/233819
+
+core concept: setting transaction and commit the transaction later
